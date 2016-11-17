@@ -1,0 +1,25 @@
+{
+    "name": "Sufiyan momin",
+    "main": "index.html",
+    "version": "0.0.1",
+    "homepage": "https://http://sufiiiyan.github.io",
+    "authors": [
+    "Sufiyan Momin <sufiyan.telsource@gmail.com>"
+  ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/sufiiiyan/sufiiiyan.github.io"
+    },
+    "description": "Sufiyan Momin working as Software Developer",
+    "keywords": [
+    "My site"
+  ],
+    "ignore": [
+    "gh-pages",
+    "node_modules",
+    "bower_components"
+  ],
+    "dependencies": {
+    "typed.js": "1.1.4"
+  }
+}
